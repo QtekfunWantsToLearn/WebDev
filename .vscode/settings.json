@@ -1,0 +1,39 @@
+{
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "editor.formatOnSave": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.renderWhitespace": "all",
+    "editor.cursorBlinking": "smooth",
+    "editor.minimap.enabled": false,
+
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.autoClosingBrackets": "always",
+        "editor.autoClosingQuotes": "always",
+        "editor.snippetSuggestions": "top",
+        "editor.suggestSelection": "first",
+        "editor.tabSize": 2,
+        "files.trimTrailingWhitespace": true,
+        "files.insertFinalNewline": true
+    },
+
+    "markdownlint.config": {
+        "default": true,
+        "MD013": false, // Line length
+        "MD033": false  // Inline HTML
+    },
+
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "prettier.proseWrap": "always"
+
+}
+
