@@ -25,7 +25,7 @@
 
 ### Semana 1-2: HTML
 
-- [ ] **Día 1-3:** Introducción a HTML, estructura básica, etiquetas comunes.
+- [x] **Día 1-3:** Introducción a HTML, estructura básica, etiquetas comunes.
   - **Recursos:**
     [MDN Web Docs - HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 - [ ] **Día 4-5:** Listas, tablas y formularios.
