@@ -30,7 +30,7 @@
     [MDN Web Docs - HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 - [ ] **Día 4-5:** Listas, tablas y formularios.
   - **Recursos:**
-    [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
+    [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 - [ ] **Día 6-7:** Proyecto pequeño: Crea una página de perfil simple.
   - **Recursos:** Aplica lo aprendido en los días anteriores.
 
